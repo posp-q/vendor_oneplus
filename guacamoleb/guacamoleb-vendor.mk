@@ -94,6 +94,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/guacamoleb/proprietary/vendor/lib/hw/vibrator.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vibrator.default.so \
     vendor/oneplus/guacamoleb/proprietary/vendor/lib/libgf_ud_hal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgf_ud_hal.so \
     vendor/oneplus/guacamoleb/proprietary/vendor/lib/libyuv_watermark.so:$(TARGET_COPY_OUT_VENDOR)/lib/libyuv_watermark.so \
+    vendor/oneplus/guacamoleb/proprietary/vendor/lib/sensors.ssc.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.ssc.so \
     vendor/oneplus/guacamoleb/proprietary/vendor/lib/vendor.goodix.hardware.biometrics.fingerprint@2.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.goodix.hardware.biometrics.fingerprint@2.1.so \
     vendor/oneplus/guacamoleb/proprietary/vendor/lib64/camera/com.qti.sensor.imx481.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.imx481.so \
     vendor/oneplus/guacamoleb/proprietary/vendor/lib64/camera/com.qti.sensor.imx586.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.imx586.so \
@@ -108,4 +109,5 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/guacamoleb/proprietary/vendor/lib64/hw/vibrator.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vibrator.default.so \
     vendor/oneplus/guacamoleb/proprietary/vendor/lib64/libgf_ud_hal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgf_ud_hal.so \
     vendor/oneplus/guacamoleb/proprietary/vendor/lib64/libyuv_watermark.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libyuv_watermark.so \
+    vendor/oneplus/guacamoleb/proprietary/vendor/lib64/sensors.ssc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.ssc.so \
     vendor/oneplus/guacamoleb/proprietary/vendor/lib64/vendor.goodix.hardware.biometrics.fingerprint@2.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.goodix.hardware.biometrics.fingerprint@2.1.so
